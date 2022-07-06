@@ -1,8 +1,8 @@
 # 💫About Me :
-I'm currently studying on VaiNaWeb
-I'm looking to colaborate  on Artificial Intelligence area
-I'm currently learnig React.js
-I'm a huge fan of Hollow Knight
+I'm currently studying on VaiNaWeb.
+I'm looking to colaborate on Artificial Intelligence area.
+I'm currently learnig React.js .
+I'm a huge fan of Hollow Knight .
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Gabriel_S#8618) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriels_paiva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-47b152240/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Gabriel196Souza) 
