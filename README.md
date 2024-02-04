@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently studying on VaiNaWeb.
+I'm currently working at Sofya.
 I'm looking to colaborate on Artificial Intelligence area.
 I'm currently learnig React.js .
 I'm a huge fan of Hollow Knight .
